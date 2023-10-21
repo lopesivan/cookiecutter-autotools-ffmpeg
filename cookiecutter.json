@@ -1,0 +1,9 @@
+{
+    "app_name": "my_app",
+    "version": "0.0.2",
+    "description": "Autotools c project ",
+    "email": "ivan@ivanlopes.eng.br",
+    "site": "http://ivanlopes.eng.br/",
+    "main": "main",
+    "src": "src"
+}
